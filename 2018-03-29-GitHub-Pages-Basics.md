@@ -206,7 +206,7 @@ Switched to a new branch 'master'
 #### Examples of how assets may be referenced in an HTML file
 
 
-## Unpublishing a Project Pages site
+Unpublishing a Project Pages site
 ### Further reading
 
 ## Unpublishing a User Pages site
