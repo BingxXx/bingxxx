@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "jekyll 安装过程"
-date:   2018-07-16 20:25:31 +0800
+title:  "Why not work"
 categories: jekyll update
+tags: jekyll update
 ---
-
 
 
 # jekyll 安装过程
